@@ -344,15 +344,15 @@
         </trans-unit>
         <trans-unit id="MoreButtonScreensaver.Label" translate="yes" xml:space="preserve">
           <source>Screensaver mode</source>
-          <target state="new">Screensaver mode</target>
+          <target state="translated">Mode d'économiseur d'écran</target>
         </trans-unit>
         <trans-unit id="SettingsScreensaverSwitch.Header" translate="yes" xml:space="preserve">
           <source>Screensaver</source>
-          <target state="new">Screensaver</target>
+          <target state="translated">Economiseur d'écran</target>
         </trans-unit>
         <trans-unit id="SettingsScreensaverDark.Content" translate="yes" xml:space="preserve">
           <source>Use a dark page as screensaver</source>
-          <target state="new">Use a dark page as screensaver</target>
+          <target state="translated">Utiliser une page sombre comme économiseur d'écran</target>
         </trans-unit>
       </group>
     </body>

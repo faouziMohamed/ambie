@@ -244,4 +244,13 @@
   <data name="RandomButton.ToolTipService.ToolTip" xml:space="preserve">
     <value>Lire un son aléatoire</value>
   </data>
+  <data name="MoreButtonScreensaver.Label" xml:space="preserve">
+    <value>Mode d'économiseur d'écran</value>
+  </data>
+  <data name="SettingsScreensaverSwitch.Header" xml:space="preserve">
+    <value>Economiseur d'écran</value>
+  </data>
+  <data name="SettingsScreensaverDark.Content" xml:space="preserve">
+    <value>Utiliser une page sombre comme économiseur d'écran</value>
+  </data>
 </root>
